@@ -1,0 +1,18 @@
+﻿Sample_ID,SampleDate,StationCode,Treatment,Collection.Point,Discharge.Point,Liters,TWP,Plastic,Polypropylene,Notes
+CCCSD_A_Field,9/7/17,CCCSDWWTP,secondary,Suisun Bay,Suisun Bay,3244,1,75,3,
+CCCSD_B_Field,12/6/17,CCCSDWWTP,secondary,Suisun Bay,Suisun Bay,916,0,12,2,
+EBDA_A_Field,8/31/17,EBDAWWTP,secondary,San Francisco Bay,San Francisco Bay,3914,0,25,0,
+EBDA_B_Field,9/26/17,EBDAWWTP,secondary,San Francisco Bay,San Francisco Bay,7885,0,32,1,
+EBMUD_A_Field,8/21/17,EBMUDWWTP,secondary,San Pablo Bay,San Pablo Bay,3483,2,45,2,Could not confirm discharge point for this facility because the discharge location was not clear in the information related to this facility. Discharge risk region was assumed based on the location of the facility address and NPDES permit information that mentioned EBMUD
+EBMUD_B_Field,9/26/17,EBMUDWWTP,secondary,San Pablo Bay,San Pablo Bay,3405,1,37,0,Could not confirm discharge point for this facility because the discharge location was not clear in the information related to this facility. Discharge risk region was assumed based on the location of the facility address and NPDES permit information that mentioned EBMUD
+FSSD_A_Field,8/23/17,FSSDWWTP,tertiary,San Francisco Bay,Suisun Bay,5954,0,8,0,
+FSSD_B_Field,9/7/17,FSSDWWTP,tertiary,San Francisco Bay,Suisun Bay,8150,1,17,3,
+PA_A_FDUP,7/20/17,PALOALTOWWTP,tertiary,Coyote,Coyote,12313,0,11,0,
+PA_A_Field,7/20/17,PALOALTOWWTP,tertiary,Coyote,Coyote,9887,0,6,0,
+PA_B_Field,8/1/17,PALOALTOWWTP,tertiary,Coyote,Coyote,9887,0,7,0,
+SFPUC_A_Field,11/6/17,SFPUCWWTP-SE,secondary,San Francisco Bay,San Francisco Bay,2859,0,45,1,Could not confirm discharge point for this facility because the NPDES permit information of this facility had expired. Discharge risk region was assumed based on the location of the facility address and NPDES permit information for the expired permit
+SFPUC_B_Field,11/7/17,SFPUCWWTP-SE,secondary,San Francisco Bay,San Francisco Bay,2263,1,51,3,Could not confirm discharge point for this facility because the NPDES permit information of this facility had expired. Discharge risk region was assumed based on the location of the facility address and NPDES permit information for the expired permit
+SJ_A_Field,8/10/17,SJSCWWTP,tertiary,Coyote,Coyote,7586,1,28,1,
+SJ_B_Field,9/19/17,SJSCWWTP,tertiary,Coyote,Coyote,4868,0,22,0,
+SUNN_A_Field,9/19/17,SunnyvaleWWTP,tertiary,Coyote,Coyote,1440,0,12,1,
+SUNN_B_Field,10/17/17,SunnyvaleWWTP,tertiary,Coyote,Coyote,2880,0,5,1,

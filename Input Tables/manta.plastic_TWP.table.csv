@@ -1,0 +1,45 @@
+SampleID,SampleDate,StationCode,Region,Season,Liters,TWP,Plastic,TWP_Plastic,Polypropylene,Notes
+CB4-Manta-21Aug2017,8/21/17,CB04,San Pablo Bay,Dry,201279,0,12,12,11,* Likely mislabeled as CB-4-
+CB4-Manta-16Nov2017,11/16/17,CB04,San Pablo Bay,Wet,102764,0,70,70,0,All lat and longs are for the start locations of trawls 
+CB5-Manta-16Nov2017,11/16/17,CB05,San Pablo Bay,Wet,133796,0,33,33,5,
+CB5-Manta-22Aug2017,8/22/17,CB05,San Pablo Bay,Dry,137528,0,17,17,1,
+CB5-Manta-5Nov2017,11/5/17,CB05,San Pablo Bay,Dry,67445,0,21,21,2,
+CB5-Manta-DUP-5Nov2017,11/5/17,CB05,San Pablo Bay,Dry,109876,0,15,15,3,
+CB6-Manta-16Nov2017,11/16/17,CB06,San Pablo Bay,Wet,126039,0,24,24,4,
+CB6-Manta-22Aug2017,8/22/17,CB06,San Pablo Bay,Dry,82007,0,14,14,0,
+CB7-Manta-16Nov2017,11/16/17,CB07,San Francisco Bay,Wet,136451,0,43,43,8,
+CB7-Manta-22Aug2017,8/22/17,CB07,San Francisco Bay,Dry,211171,0,42,42,7,
+CB7-Manta-DUP-16Nov2017,11/16/17,CB07,San Francisco Bay,Wet,128450,0,29,29,2,
+CB8-Manta-11Jan18,1/11/18,CB08,San Francisco Bay,Wet,282326,0,101,101,42,
+CB8-Manta-25Aug2017,8/25/17,CB08,San Francisco Bay,Dry,175432,0,31,31,8,
+CB8-Manta-DUP-25Aug2017,8/25/17,CB08,San Francisco Bay,Dry,179610,0,31,31,7,
+CB9-Manta-11Jan18,1/11/18,CB09,San Francisco Bay,Wet,75435,4,589,593,122,
+CB9-Manta-22Aug2017,8/22/17,CB09,San Francisco Bay,Dry,152777,1,34,35,8,
+LSB14-Manta-06Mar2018,3/6/18,LSB14,Coyote,Wet,92559,0,16,16,8,
+LSB14-Manta-24Aug2017,8/24/17,LSB14,Coyote,Dry,167410,0,118,118,38,
+LSB15-Manta-06Mar2018,3/6/18,LSB15,Coyote,Wet,87425,0,12,12,3,
+LSB15-Manta-24Aug2017,8/24/17,LSB15,Coyote,Dry,124083,0,20,20,3,
+LSB15-Manta-DUP-06Mar2018,3/6/18,LSB15,Coyote,Wet,92556,0,15,15,4,
+LSB16-Manta-06Mar2018,3/6/18,LSB16,Coyote,Wet,90061,0,20,20,4,
+LSB16-Manta-24Aug2017,8/24/17,LSB16,Coyote,Dry,99559,0,10,10,3,
+MBNMS-29-Manta-17Nov17,11/17/17,MBNMS29,San Pablo Bay,Wet,115914,0,23,23,1,This site is labeled as though it might be in Monterey bay however the lat long put it right outside the golden gat bridge and within our study site 
+MBNMS29-Manta-11Jan18,1/11/18,MBNMS29,San Pablo Bay,Wet,151285,0,38,38,2,This site is labeled as though it might be in Monterey bay however the lat long put it right outside the golden gat bridge and within our study site 
+MBNMS29-Manta-13Sept2017,9/13/17,MBNMS29,San Pablo Bay,Dry,165182,0,5,5,1,This site is labeled as though it might be in Monterey bay however the lat long put it right outside the golden gat bridge and within our study site 
+MBNMS29-Manta-30Mar2018,3/30/18,MBNMS29,San Pablo Bay,Wet,162127,0,20,20,4,This site is labeled as though it might be in Monterey bay however the lat long put it right outside the golden gat bridge and within our study site 
+MBNMS29-Manta-DUP-30Mar2018,3/30/18,MBNMS29,San Pablo Bay,Wet,152297,1,19,20,2,This site is labeled as though it might be in Monterey bay however the lat long put it right outside the golden gat bridge and within our study site 
+SB10-Manta-19Mar2018,3/19/18,SB10,San Francisco Bay,Wet,55584,0,20,20,2,
+SB10-Manta-23Aug2017,8/23/17,SB10,San Francisco Bay,Dry,146311,0,17,17,2,
+SB11-Manta-19Mar2018,3/19/18,SB11,San Francisco Bay,Wet,135953,0,44,44,4,
+SB11-Manta-23Aug2017,8/23/17,SB11,San Francisco Bay,Dry,178438,0,32,32,4,
+SB12-Manta-19Mar2018,3/19/18,SB12,San Francisco Bay,Wet,115820,0,25,25,0,
+SB12-Manta-23Aug2017,8/23/17,SB12,San Francisco Bay,Dry,557440,0,24,24,6,
+SB12-Manta-DUP-19Mar2018,3/19/18,SB12,San Francisco Bay,Wet,94928,0,50,50,4,
+SB13-Manta-19Mar2018,3/19/18,SB13,San Francisco Bay,Wet,84868,0,31,31,3,
+SB13-Manta-23Aug2017,8/23/17,SB13,San Francisco Bay,Dry,106681,2,49,51,12,
+SFBay9-18-Manta-18Sept2017,9/18/17,SFBay,San Pablo Bay,Dry,95428,0,19,19,5,This site is not listed in tables in reports but it was confirmed by Diana Lin (SFEI) to be the same as the sample names Alcatraz-Manta-18Sept2017 from the report  
+SPB2-Manta-16Nov2017,11/16/17,SPB2,San Pablo Bay,Wet,125002,0,15,15,3,
+SPB2-Manta-21Aug2017,8/21/17,SPB2,San Pablo Bay,Dry,108929,0,9,9,1,
+SPB3-Manta-17Nov17,11/17/17,SPB3,San Pablo Bay,Wet,149338,0,18,18,1,
+SPB3-Manta-21Aug2017,8/21/17,SPB3,San Pablo Bay,Dry,185691,0,29,29,1,
+SUB1-Manta-17Nov17,11/17/17,SUB1,Suisun Bay,Wet,127544,0,16,16,4,
+SUB1-Manta-21Aug2017,8/21/17,SUB1,Suisun Bay,Dry,142902,0,2,2,0,This site is not listed in tables in reports but it was confirmed by Diana Lin (SFEI) to be the same as the sample names SPB1-Manta-21Aug2017 from the report

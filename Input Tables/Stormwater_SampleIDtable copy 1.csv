@@ -1,0 +1,14 @@
+﻿SampleID,StationCode,Watershed(km2),SampleDate,Liters,Season,TWP,Plastics,Total Particle Count,Polypropylene,Region,Notes
+17-POC-100-125&355,Line12F,10.2,12/15/16,25,Wet,8,19,181,2,San Francisco Bay,
+17-POC-130-125&355,Line12J,8.81,12/15/16,67,Wet,17,20,768,2,San Francisco Bay,
+17-POC-259-125&355,RefugioCk,10.7,1/18/17,54,Wet,7,19,152,3,San Pablo Bay,
+17-POC-283-125&355,ColmaCk,27.5,2/7/17,197,Wet,19,39,1203,6,San Francisco Bay,
+17-POC-438-125&355,RodeoCk,10.7,1/18/17,63,Wet,0,13,180,0,San Pablo Bay,
+17-POC-515-125&355,Line12KEntrance,16.4,2/9/17,67,Wet,19,31,1551,4,San Francisco Bay,
+17GR-003-125&355,GR,233,1/8/17,138,Wet,8,38,386,6,Coyote,Guadalupe River
+19-POC-198-125&355,Line12MColWay,5.3,11/28/18,68,Wet,19,32,1744,10,San Francisco Bay,
+19-POC-199-125&355,Line12MColWay,5.3,11/28/18,68,Wet,19,27,2344,7,San Francisco Bay,This is a duplicate of the aboce sample. Average was taken in SFEI report
+20180108MMPStormCBEmery125&355,Line12AShell,10.5,1/8/18,115,Wet,15,21,1504,0,San Pablo Bay,
+20180108MMPStormCBMeek125&355,Meeker Slough,7.34,1/8/18,67,Wet,20,25,1283,1,San Pablo Bay,
+20180108MMPStormSBSMMP125&355,MMP-Storm-SB-SM,11.4,1/8/18,114,Wet,9,23,153,2,San Francisco Bay,San Mateo Creek
+20180406MMPStormSBCCMP125&355,MMP-Storm-SB-CC,323,4/6/18,114,Wet,14,26,903,1,Coyote,Coyote Creek

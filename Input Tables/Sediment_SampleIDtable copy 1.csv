@@ -1,0 +1,19 @@
+﻿SampleID,StationCode,SampleDate,Site.Type,Mass(g.dw),TWP,Rubber,Potentially.Rubber,Plastic,Polypropylene,Region,Notes
+17MMP-S-SUB53-MP,SUB53,6/21/17,Margins,150.1,7,6,1,10,0,Suisun Bay,
+17MMP-S-SB056-MP,SB056,7/17/17,Margins,150,4,4,0,6,1,San Francisco Bay,
+17MMP-S-SB074-MP,SB074,7/17/17,Margins,150,2,2,0,3,0,San Francisco Bay,
+17MMP-S-SPB128-MP,SPB128,6/21/17,Margins,150,9,8,1,12,3,San Pablo Bay,
+RMP-14SC-1153,CB001S,8/7/14,Open Bay,150,1,1,0,15,2,San Pablo Bay,
+15RMPMC-CB32-MP1,CB32,9/1/15,Margins,118.1,20,19,1,23,3,San Francisco Bay,
+17MMP-S-SPB15-MP-1,SPB15,6/20/17,Margins,95,5,5,0,21,5,San Pablo Bay,Duplicate
+15RMPMC-CB37-MP1,CB37,8/31/15,Margins,93.2,10,10,0,41,7,San Francisco Bay,
+17MMP-S-SPB15-MP-2,SPB15,6/21/17,Margins,81,10,10,0,28,1,San Pablo Bay,Duplicate
+17MMP-S-SB051-MP,SB051,7/6/17,Margins,66.6,9,9,0,12,3,San Francisco Bay,
+RMP-14SC-1270,SB002S,8/6/14,Open Bay,47.4,0,0,0,10,0,San Francisco Bay,
+17MMP-S-SUB52-MP,SUB52,6/21/17,Margins,44,2,2,0,4,0,Suisun Bay,
+15RMPMC-CB10-MP1,CB10,7/28/15,Margins,43.4,9,9,0,15,0,San Pablo Bay,
+17MMP-S-LSB04-MP,LSB04,6/6/17,Margins,29.2,9,9,0,21,0,Coyote,
+17MMP-S-SOSL16-MP-2,SOSL16,6/7/17,Margins,25.7,9,9,0,21,4,Coyote,Duplicate
+17MMP-S-SOSL16-MP-1,SOSL16,6/7/17,Margins,24,9,9,0,43,4,Coyote,Duplicate
+17MMP-S-LSB06-MP,LSB06,6/8/17,Margins,23,9,9,0,22,2,Coyote,
+17MMP-S-SOSL40-MP,SOSL40,6/6/17,Margins,4.4,5,5,0,20,1,Coyote,
